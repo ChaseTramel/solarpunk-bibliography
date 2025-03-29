@@ -1,0 +1,52 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [
+      "backlink",
+      "editor-status",
+      "obsidian-spaced-repetition",
+      "sync",
+      "word-count"
+    ],
+    "leftRibbon": [
+      "Open quick switcher",
+      "Open graph view",
+      "Create new canvas",
+      "Open today's daily note",
+      "Insert template",
+      "Open command palette",
+      "Omnisearch",
+      "Open improved random note",
+      "Open decks",
+      "Review flashcards",
+      "Open homepage",
+      "Show slide preview",
+      "Insert Callout",
+      "Templater",
+      "Repeat due notes",
+      "Open gallery"
+    ]
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

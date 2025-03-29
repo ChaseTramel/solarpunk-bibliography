@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "abd8572b72ead6e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2721489bec1ba565",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "284b94f6d233334c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Games & Game Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Games & Game Design"
+            }
+          },
+          {
+            "id": "de9354717d1a07fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Articles & Books.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Academic Articles & Books"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af78808d8cec1c50",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca19510cc9655fbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aa29ded2ccb5323",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cbb574d5b1d3db8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9cdb0f33046d8ad3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.5
+  },
+  "right": {
+    "id": "809a3ef7690975a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3f52306b611b939",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c12fcb69a1730957",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2b4e20d63bbff415",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2e2357071988f8cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "758e75e5c562a9c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "de9354717d1a07fd",
+  "lastOpenFiles": [
+    "Articles & Blog Posts.md",
+    "Academic Articles & Books.md",
+    "Fiction.md",
+    "Games & Game Design.md",
+    "Relevant, But Not Directly Solarpunk.md",
+    "Videos.md",
+    "Untitled",
+    "Videos",
+    "Articles by Journalists.md",
+    "Games/TTRPGs.md",
+    "Games",
+    "Welcome.md"
+  ]
+}

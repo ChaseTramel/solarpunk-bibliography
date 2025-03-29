@@ -1,0 +1,35 @@
+{
+  "statusBar": [
+    {
+      "prefix": "",
+      "suffix": " words",
+      "metric": {
+        "type": 0,
+        "counter": 0
+      }
+    },
+    {
+      "prefix": " - ",
+      "suffix": " words today",
+      "metric": {
+        "type": 1,
+        "counter": 0
+      }
+    }
+  ],
+  "altBar": [
+    {
+      "prefix": "",
+      "suffix": " words",
+      "metric": {
+        "type": 2,
+        "counter": 0
+      }
+    }
+  ],
+  "countComments": true,
+  "collectStats": true,
+  "displaySectionCounts": false,
+  "pageWords": 500,
+  "statsPath": ".obsidian/vault-stats.json"
+}

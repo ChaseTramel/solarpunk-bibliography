@@ -1,0 +1,86 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1740165099840,
+      "path": "21 Days of Writing.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1740165111593,
+      "path": "Luxury.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1740238522847,
+      "path": "Wisdom.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1740167023297,
+      "path": "Sovereignty.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1740258423110,
+      "path": "Intelligence.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1740166848919,
+      "path": "Devotion.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1742391810590,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1741201965051,
+          "path": "Business/Writing/Devotion.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1741201984102,
+          "path": "Business/Writing/Intelligence.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1741202002255,
+          "path": "Business/Writing/Sovereignty.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1741202008119,
+          "path": "Business/Writing/Wisdom.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1741201989204,
+          "path": "Business/Writing/Luxury.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1741201970916,
+          "path": "Business/Writing/Writing.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1741201956933,
+          "path": "Business/Writing/Content Pillars.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1741201993447,
+          "path": "Business/Writing/Marketing Funnel.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1741201978340,
+          "path": "Business/Writing/Ideal Client Persona.md"
+        }
+      ],
+      "title": "Business Writing"
+    }
+  ]
+}

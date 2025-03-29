@@ -1,0 +1,15 @@
+{
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "/",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "mobilePullAction": "editor:save-file",
+  "mobileToolbarCommands": [],
+  "promptDelete": true
+}
