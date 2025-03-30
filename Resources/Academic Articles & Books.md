@@ -1,6 +1,6 @@
 ---
 created: Mar 29, 2025 7:04 pm
-modified: Mar 29, 2025 7:52 pm
+modified: Mar 30, 2025 3:55 pm
 ---
 
 # Academic Articles & Books
@@ -11,8 +11,11 @@ Crosby, Phillip. “Towards an Anti-Antiutopia.” *Enquiry The ARCC Journal for
 
 Gillam, William Joseph. “A Solarpunk Manifesto: Turning Imaginary into Reality.” *Philosophies*, vol. 8, no. 4, Aug. 2023, p. 73. *<www.mdpi.com>*, [https://doi.org/10.3390/philosophies8040073](https://doi.org/10.3390/philosophies8040073).
 
+Gilliam, Emma. “Petro Pasts and Solar Futures: An Exploration of Critical,  Creative, and Activist Solarpunk Discourse.” *Honor Scholar Theses*, May 2023. *COinS*, [https://scholarship.depauw.edu/studentresearch/209](https://scholarship.depauw.edu/studentresearch/209).
+
 Hansen, Kathryn Strong. “Optimistic Fiction as a Tool for Ethical Reflection in STEM.” *Journal of Academic Ethics*, vol. 19, no. 3, Sept. 2021, pp. 425–39. *Springer Link*, [https://doi.org/10.1007/s10805-021-09405-5](https://doi.org/10.1007/s10805-021-09405-5).
 
 Johnson, Isaijah. *“Solarpunk” & the Pedagogical Value of Utopia*. 2020, [https://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/](https://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/).
 
 Reina-Rozo, Juan David. “Art, Energy and Technology: The Solarpunk Movement.” *International Journal of Engineering, Social Justice, and Peace*, vol. 8, no. 1, 1, Mar. 2021, pp. 47–60. *ojs.library.queensu.ca*, [https://doi.org/10.24908/ijesjp.v8i1.14292](https://doi.org/10.24908/ijesjp.v8i1.14292).
+
