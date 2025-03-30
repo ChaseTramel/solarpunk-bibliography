@@ -1,11 +1,11 @@
 ---
 created: Mar 29, 2025 7:44 pm
-modified: Mar 30, 2025 11:53 am
+modified: Mar 30, 2025 12:01 pm
 ---
 
 # Solarpunk Bibliography
 
-Hello! My name is Chase Tramel, and this is a solarpunk bibliography that I've created to share publicly with anyone who'd like to read on this topic. I'd like to, over time, annotate each of these sources with more information. 
+Hello! My name is Chase Tramel, and this is a solarpunk bibliography that I've created to share publicly with anyone who'd like to read on this topic. In many aspects, this is a continuation of the [Solarpunk Reference Guide](https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965)
 
 This bibliography is licensed under Creative Commons Zero v1.0 Universal (CC0), so anyone may reference it, reuse it, and remix it under personal or commercial circumstances without attribution. That said, pointing people towards this repo may help bring more people to the resource, so I would appreciate that, but it's not required. 
 
